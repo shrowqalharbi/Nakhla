@@ -49,13 +49,15 @@ For the full analysis, see [Project Overview & Business Analysis](docs/PROJECT-O
 
 > **Project scope note:** Nakhla is a university course project built on SITE123. The presence of checkout or payment options on the website does not by itself confirm that live commercial transactions are fully operational. Refer to the current website configuration for actual functionality.
 
-## Website gallery
+## Live website
 
-![Nakhla website gallery](screenshots/site-gallery.jpg)
+Explore the full website to view the homepage, product catalog, gift boxes, customer reviews, and store policies:
+
+https://6af2cb9649b2f.site123.me/
 
 ## Repository contents
 
 - [Project Overview & Business Analysis](docs/PROJECT-OVERVIEW.md)
-- [Website screenshots](screenshots/site-gallery.jpg)
+- [Live website](https://6af2cb9649b2f.site123.me/)
 
 The website itself is hosted on SITE123; this repository documents the project and does not contain SITE123's internal source code.
