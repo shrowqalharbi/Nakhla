@@ -20,7 +20,7 @@ Nakhla is an e-commerce course project focused on Saudi dates and personalized g
 
 ## Business overview
 
-Nakhla aims to make buying Saudi dates online convenient and turn them into meaningful gifts for occasions such as Ramadan, Eid, graduations, and family visits. Its value proposition combines a focused selection of Saudi dates with a flexible gift-box customization experience.
+Nakhla aims to make buying Saudi dates online convenient and turn them into meaningful gifts for Ramadan, Eid, graduations, and family visits. Its value proposition combines a focused selection of Saudi dates with a flexible gift-box customization experience.
 
 ## Products and services
 
@@ -32,24 +32,13 @@ Nakhla aims to make buying Saudi dates online convenient and turn them into mean
 
 ## Business analysis
 
-### Target customers
-- Individuals and families buying dates for personal consumption and hospitality.
-- Customers looking for gifts for Ramadan, Eid, graduations, and social occasions.
-- Customers who prefer Saudi products and local cultural identity.
-- Corporate customers purchasing gifts for employees, clients, or events.
+- **Target customers:** individuals and families, gifting customers, customers who value Saudi products, and corporate buyers.
+- **Customer needs:** convenient product browsing, flexible gifting choices, clear pricing, product details, delivery information, and customer policies.
+- **Competitive positioning:** customization of date varieties, quantities, packaging, occasion, and greeting-card message.
+- **Business model:** B2C online retail.
+- **Revenue model:** sales of individual date products and ready-made or customized gift boxes.
 
-### Customer needs
-- Convenient online browsing and product comparison.
-- Gift options for different occasions and budgets.
-- Choice of date varieties, quantities, box size, packaging, and message.
-- Clear product details, prices, delivery information, and customer policies.
-
-### Competitive positioning
-The business plan identifies [Tamrah](https://www.date.com.sa/) and [Special Dates](https://specialdates.store/en-sa/) as competitors. Nakhla differentiates itself through its focused positioning around Saudi dates and its customized gifting journey, including date selection, quantities, packaging, occasion, and a personal message.
-
-### Business and revenue model
-- **Business model:** B2C online retail, with corporate customers as an additional target segment.
-- **Revenue model:** Sales of individual date products and ready-made or customized gift boxes.
+For the full analysis, see [Project Overview & Business Analysis](docs/PROJECT-OVERVIEW.md).
 
 ## Operations and technology
 
@@ -60,28 +49,13 @@ The business plan identifies [Tamrah](https://www.date.com.sa/) and [Special Dat
 
 > **Project scope note:** Nakhla is a university course project built on SITE123. The presence of checkout or payment options on the website does not by itself confirm that live commercial transactions are fully operational. Refer to the current website configuration for actual functionality.
 
-## Screenshots
+## Website gallery
 
-### Home page
-![Nakhla home page](screenshots/home.png)
-
-### Product catalog
-![Nakhla product catalog](screenshots/products.png)
-
-### Ready-made gift boxes
-![Ready-made gift boxes](screenshots/ready-made-gifts.png)
-
-### Customer reviews
-![Customer reviews](screenshots/reviews.png)
-
-### Customer service policy
-![Customer service policy](screenshots/policy.png)
-
-## Project documentation
-
-- [Project Overview & Business Analysis (PDF)](docs/Nakhla-Project-Overview.pdf)
-- [Project Overview & Business Analysis (Word)](docs/Nakhla-Project-Overview.docx)
+![Nakhla website gallery](screenshots/site-gallery.jpg)
 
 ## Repository contents
 
-This repository documents the Nakhla course project through a concise overview, business analysis, and selected website screenshots. The website itself is hosted on SITE123; this repository does not contain SITE123's internal source code.
+- [Project Overview & Business Analysis](docs/PROJECT-OVERVIEW.md)
+- [Website screenshots](screenshots/site-gallery.jpg)
+
+The website itself is hosted on SITE123; this repository documents the project and does not contain SITE123's internal source code.
