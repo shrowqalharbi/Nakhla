@@ -55,9 +55,50 @@ Explore the full website to view the homepage, product catalog, gift boxes, cust
 
 https://6af2cb9649b2f.site123.me/
 
+## Website Screenshots
+
+Real screenshots taken from the live Nakhla website.
+
+### Home page
+
+![Home Page](screenshots/01-home.png)
+
+### Product catalog
+
+![Browse by Collection](screenshots/02-collections.png)
+
+![Product Catalog](screenshots/03-product-catalog.png)
+
+### Gift boxes
+
+![Ready-Made Gift Boxes](screenshots/04-ready-made-gift-boxes.png)
+
+### Customize your box
+
+**Step 1: Choose a box size**
+
+![Customize Box - Box Size](screenshots/05-customize-box-size.png)
+
+**Step 2: Fill the box with dates**
+
+![Customize Box - Dates](screenshots/06-customize-dates.png)
+
+**Step 3: Choose the style and add a greeting card**
+
+![Customize Box - Style and Card](screenshots/07-customize-style-and-card.png)
+
+### Customer reviews
+
+![Customer Reviews](screenshots/08-customer-reviews.png)
+
+### Store policies
+
+![Customer Service Policy](screenshots/09-customer-service-policy.png)
+
 ## Repository contents
 
 - [Project Overview & Business Analysis](docs/PROJECT-OVERVIEW.md)
+- [Website screenshots](screenshots/)
 - [Live website](https://6af2cb9649b2f.site123.me/)
 
 The website itself is hosted on SITE123; this repository documents the project and does not contain SITE123's internal source code.
